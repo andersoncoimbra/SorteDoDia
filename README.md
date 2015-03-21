@@ -5,7 +5,7 @@ Pequeno soft em java como trabalho de conclusao do modo de programação 2 do cu
 
 Os eventos do soft permitem com a entrada do nome e o signo uma visualização de uma frase que cosrresponde com uma sorte 
 
-As decisões de projeto que foram tomadas para que outros programadores não fujam do padão são: 
+<b>As decisões de projeto que foram tomadas para que outros programadores não fujam do padão são:</b>
 
 Criamos uma super classe chamada signo, fazendo com que ela tenha um construtor para que as sub classes que seriam os signos Ex: Aquario, Touros podessem implementar suas frases de maneira mais personalizadas sendo assim possível fazer com que as pessoas aqual  fossem acessar só o necessário. Instânciando as frases correspondentes ao signo, assim tornando o programa seja entendido de maneira facilmente  rápida e sem necessariamente consumir todos os recursos com as frases que tenha no Banco de Dados. 
 
