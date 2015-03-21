@@ -1,7 +1,9 @@
 # Projeto Sorte Do Dia
 Programa em java que revela sua sorte diaria
-
-<img alt="O Oraculo" src=""></img>
+<center>
+<img alt="O Oraculo" src="http://torcidabicolor.com.br/wp-content/uploads/2015/03/logo-oraculo.png"></img>
+<h4>O Oraculo</h4>
+</center>
 
 <h6>Pequeno soft em java como trabalho de conclusao do modo de programação 2 do curso de jogos digitais da Faculdade Ipiranga.
 Os eventos do soft permitem com a entrada do nome e o signo uma visualização de uma frase que cosrresponde com uma sorte </h6>.
